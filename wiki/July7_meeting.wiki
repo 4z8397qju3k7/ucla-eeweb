@@ -1,10 +1,10 @@
 #summary One-sentence summary of this page.
 
 = Agenda =
-
+{{{
 1. Overview of the eeweb
 2. Initial assignment
 3. Sunny to prepare minutes of the meetings
 4. I will let you know the submission of your time sheet later.
 5. Please document your subsystems.  Provide system architecture chart, class hierarchy, data flow diagram.
-
+}}}
