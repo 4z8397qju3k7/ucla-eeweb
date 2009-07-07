@@ -9,5 +9,9 @@
 5. Please document your subsystems.  Provide system architecture chart, class hierarchy, data flow diagram.
 6. Please follow coding standard. Good links as follow:
 http://pear.php.net/manual/en/standards.php
+http://drupal.org/coding-standards
+http://framework.zend.com/manual/en/coding-standard.html
+SQL coding convention
+http://drupal.org/node/2497
 7. Decide our naming standard.
 }}}
