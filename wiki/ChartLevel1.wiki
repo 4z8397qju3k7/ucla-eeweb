@@ -1,10 +1,5 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
-
-Architecture Chart
-
-
-= Details =
+= Architecture Chart =
 
 http://ucla-eeweb.googlecode.com/files/system_chart.jpg
