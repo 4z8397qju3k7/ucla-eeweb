@@ -14,4 +14,6 @@ http://framework.zend.com/manual/en/coding-standard.html
 SQL coding convention
 http://drupal.org/node/2497
 7. Decide our naming standard.
+8. Code review
+9. Next meeting
 }}}
