@@ -7,4 +7,4 @@ Architecture Chart
 
 = Details =
 
-http://code.google.com/files/system chart.jpg
+http://code.google.com/files/system_chart.jpg
